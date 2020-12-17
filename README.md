@@ -25,7 +25,7 @@ The repository contains the database and the Jupyter Notebook with the analysis 
 
 ## Results
 
-The findings are explained on the Jupyter Notebook and on this Medium Post.
+The findings are explained on the Jupyter Notebook and on [this Medium Post](https://juncken-marcos.medium.com/how-can-we-predict-house-prices-with-machine-learning-f26b9432a7aa).
 
 ## Licensing, Authors, and Acknowledgements
 
